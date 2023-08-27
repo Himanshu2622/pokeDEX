@@ -5,6 +5,12 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  /* background: linear-gradient(to left,  rgb(237, 240, 249, 0.971) 0%, rgba(204, 44, 44)100%); */
+  background-image: url('./canyon.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 code {
